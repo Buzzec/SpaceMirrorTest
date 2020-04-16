@@ -9,6 +9,7 @@ struct Cool {}
 
 fn main() {
     println!("Hello, world!");
+    println!("Extra");
 
     let cool = Cool {};
 
